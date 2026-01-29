@@ -1,0 +1,11 @@
+road_id,road_name,latitude,longitude,avg_speed_kmh,congestion_level,incident_type,timestamp
+1,Necklace Road,17.4071,78.4744,45,Moderate,None,2026-01-29 08:00
+2,MG Road,17.4220,78.4407,20,Heavy,Accident,2026-01-29 08:05
+3,Banjara Hills Road,17.4322,78.4436,35,Moderate,Roadwork,2026-01-29 08:10
+4,Hi-Tech City Road,17.4448,78.3772,60,Free,None,2026-01-29 08:15
+5,Jubilee Hills Road,17.4230,78.4050,15,Heavy,Accident,2026-01-29 08:20
+6,Tarnaka Road,17.3950,78.5280,50,Moderate,None,2026-01-29 08:25
+7,Dilsukhnagar Road,17.3680,78.5400,25,Heavy,None,2026-01-29 08:30
+8,KPHB Road,17.4910,78.3970,40,Moderate,None,2026-01-29 08:35
+9,Mehdipatnam Junction,17.3870,78.4480,10,Very Heavy,Accident,2026-01-29 08:40
+10,Secunderabad Station Rd,17.4500,78.5000,55,Free,None,2026-01-29 08:45
